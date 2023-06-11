@@ -1,0 +1,15 @@
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\bin\Debug\net6.0\HW_1.exe
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\bin\Debug\net6.0\HW_1.deps.json
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\bin\Debug\net6.0\HW_1.runtimeconfig.json
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\bin\Debug\net6.0\HW_1.dll
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\bin\Debug\net6.0\HW_1.pdb
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.csproj.AssemblyReference.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfoInputs.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.AssemblyInfo.cs
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.dll
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\refint\HW_1.dll
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.pdb
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\HW_1.genruntimeconfig.cache
+D:\Visual Studio Code\C#\HW_from_Seminar#1\HW_1\obj\Debug\net6.0\ref\HW_1.dll
